@@ -1,5 +1,15 @@
 [
     {
+        "symbol":"AKPL",
+        "open":"387.1",
+        "high":"395.4",
+        "low":"387",
+        "close":"395.3",
+        "f_date":"2023-03-07",
+        "percent_change":"1.3589743589744",
+        "volume":"37715"
+    },
+    {
         "symbol": "AKPL",
         "open": "395",
         "high": "397",
